@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Using cypress-bdd-cucumber to express Test Cases (or Test Scenarios) in Cucumber format using Gherkin language.
 
 - ### Prerequisites
-- [Cypress](https://www.cypress.io/) - [Installation and Setup](https://docs.cypress.io/guides/getting-started/installing-cypress)https://docs.cypress.io/guides/getting-started/installing-cypress)
+- [Cypress](https://www.cypress.io/) - [Installation and Setup](https://docs.cypress.io/guides/getting-started/installing-cypress)
 - Internet access
 
 ### Setting Up
