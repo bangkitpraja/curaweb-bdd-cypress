@@ -12,9 +12,25 @@ These instructions will get you a copy of the project up and running on your loc
 - [Cypress](https://www.cypress.io/) - [Installation and Setup](https://docs.cypress.io/guides/getting-started/installing-cypress)
 - Internet access
 
+# Installing 
+Install Cypress for Mac, Linux, or Windows, then[get started](https://on.cypress.io/install).
+```
+npm install cypress --save-dev
+```
+
+Cypress cucumber plugin need to be installed, completed guide can be access [here](https://github.com/badeball/cypress-cucumber-preprocessor).
+```
+npm i @badeball/cypress-cucumber-preprocessor
+```
+```
+npm i @bahmutov/cypress-esbuild-preprocessor
+```
+```
+npm install -D cypress-xpath
+```
+
 ### Setting Up
 - [Check out](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) the code from this repository
-
 
 ## Test Features
 Below is sample gherkin language that used for the Test Cases
